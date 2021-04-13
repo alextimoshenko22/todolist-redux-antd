@@ -1,0 +1,8 @@
+.name {
+    color: black;
+    font-size: large;
+}
+
+.name.completed {
+    text-decoration: line-through;
+}
